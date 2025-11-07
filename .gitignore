@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+obsidian_notes/
+*.zip
+.DS_Store
+*.csv
+!examples/sample.csv
