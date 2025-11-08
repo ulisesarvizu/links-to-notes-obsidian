@@ -1,4 +1,4 @@
-# 🔗 Links to Notes for Obsidian
+# Links to Notes for Obsidian (markdown) like Osidian Web clipper
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +12,7 @@ Automatically converts URLs from CSV files into Obsidian notes with Markdown for
 - Obsidian-ready format with YAML frontmatter
 - Detailed success/failure reports
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ### Instalation
 ```bash
@@ -26,6 +26,6 @@ pip install -r requirements.txt
 python links_to_notes.py --csv bookmarks.csv --out obsidian_notes
 ```
 
-## 📝 License
+## License
 
 MIT License
