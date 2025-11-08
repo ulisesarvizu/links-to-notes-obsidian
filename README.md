@@ -16,7 +16,7 @@ Automatically converts URLs from CSV files into Obsidian notes with Markdown for
 
 ### Instalation
 ```bash
-git clone https://github.com/TU_USUARIO/links-to-notes-obsidian.git
+git clone https://github.com/ulisesarvizu/links-to-notes-obsidian.git
 cd links-to-notes-obsidian
 pip install -r requirements.txt
 ```
